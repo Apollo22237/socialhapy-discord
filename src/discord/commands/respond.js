@@ -5,6 +5,7 @@ const responses = [
 	"I don't understand.",
 	"No, you are.",
 	"I wouldn't know.",
+	"It was Buddy's fault",
 	"These highlights are killing me."
 ];
 
