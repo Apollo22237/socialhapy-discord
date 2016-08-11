@@ -16,7 +16,8 @@ const answers = [
 	"Never.",
 	"Of course.",
 	"Can we do this another time?",
-	"I'd love to answer but this is a bad time for me."
+	"I'd love to answer but this is a bad time for me.",
+	"What would Low5ive do?"
 ];
 
 /**
